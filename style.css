@@ -14,7 +14,7 @@
 body {    
     background-color: var(--preto);
     color: white;
-    font-size: var(--fonte-principal);
+    font-size: var(--fonte-principal); 
 }
 
 
